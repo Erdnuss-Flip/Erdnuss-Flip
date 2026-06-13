@@ -7,9 +7,9 @@ If something doesn't work please contact me on discord (Astronawta#0012).
 const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
-        serverName: "ExampleName", /*Server name*/
-        serverIp: "mc.hypixel.net", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
-        discordServerID: "489529070913060867" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
+        serverName: "Erdnuss-Flip SMP", /*Server name*/
+        serverIp: "ErdnussFlip.leck", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        discordServerID: "1303042479574220930" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
     /*Admin-Team
@@ -46,97 +46,49 @@ const config = {
     adminTeamPage: {
         leaders: [
             {
-                inGameName: "Astronavta",
+                inGameName: "Lyrixyz",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "Crusher1810677",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "BernieGHG",
                 rank: "Manager",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Moderator",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
         ],
         developers: [
             {
-                inGameName: "Astronavta",
+                inGameName: "Veytexx",
                 rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "IceCreap44",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Webmaster",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Discord manager",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
         ],
         helpers: [
             {
-                inGameName: "Astronavta",
+                inGameName: "JenskenMC",
                 rank: "Helper++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
         ],
         builders: [
             {
-                inGameName: "Astronavta",
+                inGameName: "KitFisto7567",
                 rank: "Builder++",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
@@ -148,26 +100,8 @@ const config = {
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "EinfachTommy422",
                 rank: "Builder+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
@@ -181,7 +115,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "astronavta@example.com"
+        email: "paul@elektro-hoelter.de"
     }
 }
 
